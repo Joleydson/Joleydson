@@ -1,8 +1,9 @@
 ### Hi! I'm Joleydson 👋.
 
 
-- 🔭 Atualmente trabalho como front-end, designer e desenvolvedor web, usando wordpress.
-- 🌱 Estou estudando Pyton, Javascript, HTML, CSS e SQL.
+- 🔭 Atualmente trabalho como front-end e Web design , usando wordpress e Elementor na agência Sites Campinas.
+- Tenho Formação em; Eng Civil, Eng de Dados, TI e estou cursando Pòs em IA.
+- 🌱 Estudo; Pyton, Javascript, HTML, CSS e SQL.
 -<div align="center">
   <a href="https://github.com/joleydson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joleydson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
